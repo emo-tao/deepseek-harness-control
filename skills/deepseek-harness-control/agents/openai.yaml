@@ -1,0 +1,4 @@
+interface:
+  display_name: "DeepSeek Harness 控制"
+  short_description: "定位 Harness 会话、下发授权任务、只读监控并独立核验交付结果"
+  default_prompt: "使用 $deepseek-harness-control 检查指定的 DeepSeek Harness 会话，并在授权范围内继续任务与核验结果。"
